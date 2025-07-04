@@ -5,5 +5,3 @@
 ## Without specific data on total Revenue of Palmoria Company, it is difficult to definitely say if the company can meet the requirement of paying their Employees a minimum of $90,000. However, the data reveals that their employee's current Average salary is about $74,000
 ## The distribution of employees grouped by a band of $10,000 is shown on the visuals below
 ## [Number of employees in each of the band ..pdf](https://github.com/user-attachments/files/21045789/Number.of.employees.in.each.of.the.band.pdf)
-
-## [PALMORA GROUP HR DASHBOARD.pdf](https://github.com/user-attachments/files/21047819/PALMORA.GROUP.HR.DASHBOARD.pdf)
