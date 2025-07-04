@@ -53,12 +53,10 @@
 #### 3.	Conduct Annual Pay Equity Audits with corrective adjustments.
 #### 4.	Adjust Salaries Below $90,000, especially in Abuja Region 
 #### 5.	Reassess Bonus Criteria to ensure inclusivity across departments and gender groups.
+
 ### Visuals Summary
-#### •	Gender Distribution by Region & Department
-#### •	Ratings by Gender
-#### •	Salary Pay Bands with Region Overlay
-#### •	Bonus Distribution Heatmap
-#### (Available in Visuals field)
+
+#### (As attached)
 
 
 
