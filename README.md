@@ -18,10 +18,10 @@
 ## 	Average Salary:
 ### Male: $75,300
 ### Female: $72,600
-## Pay Gap: ~$2,700 in favour of male employees
+### Pay Gap: ~$2,700 in favour of male employees
 ## Most Affected Department: Research and Development
-## Region with Widest Gap: Kaduna
-##  Insight: A clear pay gap exists, especially in departments like Research and Development and Human Resources
+### Region with Widest Gap: Kaduna
+###  Insight: A clear pay gap exists, especially in departments like Research and Development and Human Resources
 ## 4. Minimum Wage Compliance
 ### •	Regulatory Threshold: $90,000
 ### •	Employees Below Threshold: 654
@@ -36,7 +36,7 @@
 ### $70k–$80k	            117
 ### $80k–$90k	            108
 ### $90k and above	      292
-## Insight: A large portion of employees earn below the required minimum salary, especially in Abuja Region. Management should prioritize salary adjustments here.
+### Insight: A large portion of employees earn below the required minimum salary, especially in Abuja Region. Management should prioritize salary adjustments here.
 ## 5. Bonus Allocation Based on Performance
 ### •	Bonus Rules: Applied as per the rating tiers (1–5)
 ### •	Highest Bonus Earners: Concentrated in Kaduna Region and Training Dept.
