@@ -1,7 +1,67 @@
-# Palmora Group HR Analysis
-## The gender distribution in Palmora's workforce is relatively balanced, with a slight leaning towards female participation (51% male and 49% female). In regions: Kaduna gender distribution is 52% male and 48% Female, attention is required here. For departments, Legal has 59% male and 41% female whereas Services and Business Development have each 53% female and 47% male. Attention is also required here.
-## [Insights on Ratings Based on Gender.pdf](https://github.com/user-attachments/files/21039344/Insights.on.Ratings.Based.on.Gender.pdf)
-## There is no Gender pay gap in the Company's Salary structure (See uploaded Visuals)
-## Without specific data on total Revenue of Palmoria Company, it is difficult to definitely say if the company can meet the requirement of paying their Employees a minimum of $90,000. However, the data reveals that their employee's current Average salary is about $74,000
-## The distribution of employees grouped by a band of $10,000 is shown on the visuals below
-## [Number of employees in each of the band ..pdf](https://github.com/user-attachments/files/21045789/Number.of.employees.in.each.of.the.band.pdf)
+# Palmora Group HR Gender Equity Analysis Report
+## Prepared by: HR Analytics Expert
+## Date: July 3, 2025
+## Project Focus: Gender Equality, Salary Compliance, and Bonus Allocation
+## Company Background
+### Palmora Group is a Nigerian manufacturing company under public scrutiny due to alleged gender inequality. This project aims to uncover issues using HR data and provide actionable recommendations to support equitable growth
+## Key Insights
+## 1. Gender Distribution
+## Total Employees: 946
+## Gender Split:
+### Male: 49.2%
+### Female: 46.6%
+### Undisclosed: 4.2%
+
+## 2. Performance Ratings by Gender
+### Insight: Males have marginally higher performance ratings
+## 3. Gender Pay Gap Analysis
+## 	Average Salary:
+### Male: $75,300
+### Female: $72,600
+## Pay Gap: ~$2,700 in favour of male employees
+## Most Affected Department: Research and Development
+## Region with Widest Gap: Kaduna
+##  Insight: A clear pay gap exists, especially in departments like Research and Development and Human Resources
+## 4. Minimum Wage Compliance
+### •	Regulatory Threshold: $90,000
+### •	Employees Below Threshold: 654
+### •	Non-compliance Rate: 69.1%
+## Salary Bands:
+### Salary Range	Number of Employees
+### $20k–$30k	            26
+### $30k–$40k            	103
+### $40k–$50k	            105
+### $50k–$60k	            96
+### $60k–$70k	            99
+### $70k–$80k	            117
+### $80k–$90k	            108
+### $90k and above	      292
+## Insight: A large portion of employees earn below the required minimum salary, especially in Abuja Region. Management should prioritize salary adjustments here.
+## 5. Bonus Allocation Based on Performance
+### •	Bonus Rules: Applied as per the rating tiers (1–5)
+### •	Highest Bonus Earners: Concentrated in Kaduna Region and Training Dept.
+### •	Total Bonus Paid: $2.2M
+### •	Top 3 Bonus-Intensive Departments:
+#### 1.	Training
+#### 2.	Accounting
+#### 3.	Engineering
+###  Insight: Bonus distribution aligns with top-performing departments, but potential fairness concerns may arise if gender imbalance persists in these groups.
+
+### Recommendations
+#### 1.	Implement Gender Hiring Targets in departments and regions with disproportionate representation.
+#### 2.	Standardize Performance Reviews to eliminate unconscious bias.
+#### 3.	Conduct Annual Pay Equity Audits with corrective adjustments.
+#### 4.	Adjust Salaries Below $90,000, especially in Abuja Region 
+#### 5.	Reassess Bonus Criteria to ensure inclusivity across departments and gender groups.
+### Visuals Summary
+#### •	Gender Distribution by Region & Department
+#### •	Ratings by Gender
+#### •	Salary Pay Bands with Region Overlay
+#### •	Bonus Distribution Heatmap
+#### (Available in Visuals field)
+
+
+
+
+
+
