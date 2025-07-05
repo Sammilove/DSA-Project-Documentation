@@ -1,13 +1,13 @@
 # Palmora Group HR Gender Equity Analysis Report
-## Prepared by: HR Analytics Expert
+## Prepared by: HR Analytics Expert (Mr. Inyang Samuel)
 ## Date: July 3, 2025
 ## Project Focus: Gender Equality, Salary Compliance, and Bonus Allocation
-## Company Background
+## Company Background:
 ### Palmora Group is a Nigerian manufacturing company under public scrutiny due to alleged gender inequality. This project aims to uncover issues using HR data and provide actionable recommendations to support equitable growth
 ## Key Insights
-## 1. Gender Distribution
-## Total Employees: 946
-## Gender Split:
+### 1. Gender Distribution
+### Total Employees: 946
+### Gender Split:
 ### Male: 49.2%
 ### Female: 46.6%
 ### Undisclosed: 4.2%
@@ -28,14 +28,14 @@
 ### •	Non-compliance Rate: 69.1%
 ## Salary Bands:
 ### Salary Range	Number of Employees
-### $20k–$30k	            26
-### $30k–$40k            	103
-### $40k–$50k	            105
-### $50k–$60k	            96
-### $60k–$70k	            99
-### $70k–$80k	            117
-### $80k–$90k	            108
-### $90k and above	      292
+### $20k–$30k	              26
+### $30k–$40k              	103
+### $40k–$50k	              105
+### $50k–$60k	              96
+### $60k–$70k	              99
+### $70k–$80k	              117
+### $80k–$90k	              108
+### $90k and above	        292
 ### Insight: A large portion of employees earn below the required minimum salary, especially in Abuja Region. Management should prioritize salary adjustments here.
 ## 5. Bonus Allocation Based on Performance
 ### •	Bonus Rules: Applied as per the rating tiers (1–5)
